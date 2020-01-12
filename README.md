@@ -1,3 +1,3 @@
 # <p align="center">Program 6</p>
 
-![](img/hasil.png)
+<p align="center">![](img/hasil.png)</p>
